@@ -1,4 +1,24 @@
-h1 {
+body {
+    background-color: rgb(3, 18, 20);
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    text-align: center;
+    color:bisque
+}
+h2{
+    color:orange
+}
+h3 {
     font-style: italic;
-    
+    text-align: center;
+    color:chartreuse
+}
+
+video {
+   align-items: center;
+   min-width: auto
+   max-width: auto
 }
